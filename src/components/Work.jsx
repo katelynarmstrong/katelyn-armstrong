@@ -1,10 +1,10 @@
 import React from 'react';
-import realEstate from '../assets/realestate.jpg';
 import horrorscopes from '../assets/horrorscopes.png';
 import lettuceTalk from '../assets/lettuceTalk.png';
 import codeQuiz from '../assets/codeQuiz.png';
 import dreamTeam from '../assets/dreamTeam.png';
 import weatherDashboard from '../assets/weatherDashboard.png';
+import letsBudget from '../assets/letsBudget.png'
 
 const Work = () => {
   return (
@@ -140,13 +140,13 @@ const Work = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${realEstate})` }}
+            style={{ backgroundImage: `url(${letsBudget})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                PWA using MongoDB
               </span>
               <div className='pt-8 text-center'>
                 <a href='/'>
