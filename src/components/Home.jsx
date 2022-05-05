@@ -10,10 +10,10 @@ const Home = () => {
         <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>
           Katelyn Armstrong
         </h1>
-        <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
+        <h2 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>
           I'm a Full Stack Developer.
         </h2>
-        <p className='text-[#8892b0] font-bold py6 max-w-[700px]'>
+        <p className='text-[#ccd6f6] font-bold py6 max-w-[700px]'>
           I am a full-stack developer with a team leadership and management background. I strive to build beautiful and responsive web applications with a postive user experience. 
           
         </p>
