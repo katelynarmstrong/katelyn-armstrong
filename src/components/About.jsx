@@ -1,4 +1,5 @@
 import React from 'react';
+import Profile from '../assets/profile.jpeg'
 
 const About = () => {
   return (
@@ -11,6 +12,9 @@ const About = () => {
             </p>
           </div>
           <div></div>
+          </div>
+          <div className='max-w-[350px] justify-center'>
+            <img src={Profile} alt="Katelyn infront of wall" />
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
             <div className='sm:text-right text-4xl font-bold'>
