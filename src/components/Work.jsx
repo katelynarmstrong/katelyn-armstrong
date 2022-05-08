@@ -32,12 +32,12 @@ const Work = () => {
                 Front End JS Application
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://katelynarmstrong.github.io/code-quiz/' target={'_blank'}>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/katelynarmstrong/code-quiz' target={'_blank'}>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -55,12 +55,12 @@ const Work = () => {
                 Front End 3rd Party API Application
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://katelynarmstrong.github.io/weather-dashboard/' target={'_blank'}>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/katelynarmstrong/weather-dashboard' target={'_blank'}>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -79,12 +79,12 @@ const Work = () => {
                 OOP Team Generator Application
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://drive.google.com/file/d/1keUUQ5Rkvn-p45wOKHeNCF-odGhIn2eI/view' target={'_blank'}>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/katelynarmstrong/team-generator' target={'_blank'}>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -102,12 +102,12 @@ const Work = () => {
                 Full Stack node Application
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://horrorscopes2.herokuapp.com/' target={'_blank'}>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/Atticus-Robinson/Horrorscope' target={'_blank'}>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -126,12 +126,12 @@ const Work = () => {
                 Front End 3rd Party API Application
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+              <a href='https://pshertzi.github.io/Food-tracker-/' target={'_blank'}>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/pshertzi/Food-tracker-' target={'_blank'}>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -149,12 +149,12 @@ const Work = () => {
                 PWA using MongoDB
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://lets-budget.herokuapp.com/' target={'_blank'}>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/katelynarmstrong/lets-budget' target={'_blank'}>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
