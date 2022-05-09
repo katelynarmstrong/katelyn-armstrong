@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/katelyn-armstrong/static/css/main.b9fdcdfb.css",
+    "main.js": "/katelyn-armstrong/static/js/main.6d90a209.js",
+    "static/media/profile.jpeg": "/katelyn-armstrong/static/media/profile.b860b3c84bd7d0a640f4.jpeg",
+    "static/media/horrorscopes.png": "/katelyn-armstrong/static/media/horrorscopes.00812855c2befe891f8e.png",
+    "static/media/lettuceTalk.png": "/katelyn-armstrong/static/media/lettuceTalk.a3878aa11b26676685d1.png",
+    "static/media/weatherDashboard.png": "/katelyn-armstrong/static/media/weatherDashboard.94fd586601775045fb07.png",
+    "static/media/KatelynArmstrongResume2022.pdf": "/katelyn-armstrong/static/media/KatelynArmstrongResume2022.1bb42cba203cbb5fed3f.pdf",
+    "static/media/dreamTeam.png": "/katelyn-armstrong/static/media/dreamTeam.495ea4fffbaf897965ce.png",
+    "static/media/letsBudget.png": "/katelyn-armstrong/static/media/letsBudget.0b16557f95c2eedff5f6.png",
+    "static/media/logo.png": "/katelyn-armstrong/static/media/logo.ca70217820667f1636b6.png",
+    "static/media/react.png": "/katelyn-armstrong/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/codeQuiz.png": "/katelyn-armstrong/static/media/codeQuiz.95e8c8201299ce3d8159.png",
+    "static/media/node.png": "/katelyn-armstrong/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/katelyn-armstrong/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/html.png": "/katelyn-armstrong/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/katelyn-armstrong/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/katelyn-armstrong/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/katelyn-armstrong/index.html",
+    "main.b9fdcdfb.css.map": "/katelyn-armstrong/static/css/main.b9fdcdfb.css.map",
+    "main.6d90a209.js.map": "/katelyn-armstrong/static/js/main.6d90a209.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9fdcdfb.css",
+    "static/js/main.6d90a209.js"
+  ]
+}
