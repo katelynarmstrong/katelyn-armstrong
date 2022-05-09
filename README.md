@@ -1,6 +1,6 @@
 # Katelyn Armstrong
 
-### Description
+## Description
 I created this portfolio to showcase my skills as a full stack web developer. I created my portfolio using React and deployed through GitHub pages. 
 
 ## GitHub Repo
