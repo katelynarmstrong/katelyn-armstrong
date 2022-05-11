@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/katelyn-armstrong/static/css/main.eed826f2.css",
-    "main.js": "/katelyn-armstrong/static/js/main.64f521f0.js",
+    "main.css": "/katelyn-armstrong/static/css/main.7bb87b1f.css",
+    "main.js": "/katelyn-armstrong/static/js/main.cede224f.js",
     "static/media/horrorscopes.png": "/katelyn-armstrong/static/media/horrorscopes.00812855c2befe891f8e.png",
     "static/media/lettuceTalk.png": "/katelyn-armstrong/static/media/lettuceTalk.a3878aa11b26676685d1.png",
-    "static/media/profileN.png": "/katelyn-armstrong/static/media/profileN.7e590517dea6a3434841.png",
     "static/media/weatherDashboard.png": "/katelyn-armstrong/static/media/weatherDashboard.94fd586601775045fb07.png",
     "static/media/KatelynArmstrongResume2022.pdf": "/katelyn-armstrong/static/media/KatelynArmstrongResume2022.480aeb279f5e29d15a8d.pdf",
     "static/media/logoN.png": "/katelyn-armstrong/static/media/logoN.d5504d5ea5bab196bc82.png",
@@ -18,11 +17,11 @@
     "static/media/css.png": "/katelyn-armstrong/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/katelyn-armstrong/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/katelyn-armstrong/index.html",
-    "main.eed826f2.css.map": "/katelyn-armstrong/static/css/main.eed826f2.css.map",
-    "main.64f521f0.js.map": "/katelyn-armstrong/static/js/main.64f521f0.js.map"
+    "main.7bb87b1f.css.map": "/katelyn-armstrong/static/css/main.7bb87b1f.css.map",
+    "main.cede224f.js.map": "/katelyn-armstrong/static/js/main.cede224f.js.map"
   },
   "entrypoints": [
-    "static/css/main.eed826f2.css",
-    "static/js/main.64f521f0.js"
+    "static/css/main.7bb87b1f.css",
+    "static/js/main.cede224f.js"
   ]
 }
