@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { FaBars, FaTimes, FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
-import Logo from "../assets/logo.png";
+import Logo from "../assets/logoN.png";
 import { Link } from "react-scroll";
 import Resume from "../assets/KatelynArmstrongResume2022.pdf";
 
@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <div className="fixed w-full h-[200px] flex justify-between items-center px-4 bg-[#827081] text-gray-300">
       <div>
-        <img src={Logo} alt="KA custom logo" style={{ width: "300px"}} />
+        <img src={Logo} alt="KA custom logo" style={{ width: "200px"}} />
       </div>
 
       {/* menu */}
