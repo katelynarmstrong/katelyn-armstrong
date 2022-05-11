@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/katelyn-armstrong/static/css/main.1ff8ca75.css",
-    "main.js": "/katelyn-armstrong/static/js/main.ea81f4e3.js",
+    "main.css": "/katelyn-armstrong/static/css/main.b9fdcdfb.css",
+    "main.js": "/katelyn-armstrong/static/js/main.65af0c46.js",
+    "static/media/profile.jpeg": "/katelyn-armstrong/static/media/profile.b860b3c84bd7d0a640f4.jpeg",
     "static/media/horrorscopes.png": "/katelyn-armstrong/static/media/horrorscopes.00812855c2befe891f8e.png",
     "static/media/lettuceTalk.png": "/katelyn-armstrong/static/media/lettuceTalk.a3878aa11b26676685d1.png",
     "static/media/weatherDashboard.png": "/katelyn-armstrong/static/media/weatherDashboard.94fd586601775045fb07.png",
+    "static/media/KatelynArmstrongResume2022.pdf": "/katelyn-armstrong/static/media/KatelynArmstrongResume2022.1bb42cba203cbb5fed3f.pdf",
     "static/media/dreamTeam.png": "/katelyn-armstrong/static/media/dreamTeam.495ea4fffbaf897965ce.png",
     "static/media/letsBudget.png": "/katelyn-armstrong/static/media/letsBudget.0b16557f95c2eedff5f6.png",
     "static/media/logo.png": "/katelyn-armstrong/static/media/logo.ca70217820667f1636b6.png",
@@ -16,11 +18,11 @@
     "static/media/css.png": "/katelyn-armstrong/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/katelyn-armstrong/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/katelyn-armstrong/index.html",
-    "main.1ff8ca75.css.map": "/katelyn-armstrong/static/css/main.1ff8ca75.css.map",
-    "main.ea81f4e3.js.map": "/katelyn-armstrong/static/js/main.ea81f4e3.js.map"
+    "main.b9fdcdfb.css.map": "/katelyn-armstrong/static/css/main.b9fdcdfb.css.map",
+    "main.65af0c46.js.map": "/katelyn-armstrong/static/js/main.65af0c46.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ff8ca75.css",
-    "static/js/main.ea81f4e3.js"
+    "static/css/main.b9fdcdfb.css",
+    "static/js/main.65af0c46.js"
   ]
 }
