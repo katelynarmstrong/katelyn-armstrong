@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <div className="fixed w-full h-[200px] flex justify-between items-center px-4 bg-[#827081] text-gray-300">
       <div>
-        <img src={Logo} alt="KA custom logo" style={{ width: "300px" }} />
+        <img src={Logo} alt="KA custom logo" style={{ width: "300px"}} />
       </div>
 
       {/* menu */}
