@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/katelyn-armstrong/static/css/main.7bb87b1f.css",
-    "main.js": "/katelyn-armstrong/static/js/main.cede224f.js",
+    "main.css": "/katelyn-armstrong/static/css/main.f00ddd8a.css",
+    "main.js": "/katelyn-armstrong/static/js/main.ee1d1515.js",
     "static/media/horrorscopes.png": "/katelyn-armstrong/static/media/horrorscopes.00812855c2befe891f8e.png",
     "static/media/lettuceTalk.png": "/katelyn-armstrong/static/media/lettuceTalk.a3878aa11b26676685d1.png",
     "static/media/weatherDashboard.png": "/katelyn-armstrong/static/media/weatherDashboard.94fd586601775045fb07.png",
@@ -17,11 +17,11 @@
     "static/media/css.png": "/katelyn-armstrong/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/katelyn-armstrong/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/katelyn-armstrong/index.html",
-    "main.7bb87b1f.css.map": "/katelyn-armstrong/static/css/main.7bb87b1f.css.map",
-    "main.cede224f.js.map": "/katelyn-armstrong/static/js/main.cede224f.js.map"
+    "main.f00ddd8a.css.map": "/katelyn-armstrong/static/css/main.f00ddd8a.css.map",
+    "main.ee1d1515.js.map": "/katelyn-armstrong/static/js/main.ee1d1515.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bb87b1f.css",
-    "static/js/main.cede224f.js"
+    "static/css/main.f00ddd8a.css",
+    "static/js/main.ee1d1515.js"
   ]
 }
