@@ -150,7 +150,7 @@ const Work = () => {
                 MERN Stack Application
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://taco-bell-throwdown.herokuapp.com/' target={'_blank'}>
+                <a href='https://taco-bell-throwdownn.herokuapp.com/' target={'_blank'}>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
